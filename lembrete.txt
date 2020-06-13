@@ -1,0 +1,7 @@
+//IMPLEMENTAR FILE FILTER -> na hora de fazer o envio da imagem
+
+// USAR react-native-picker-select para consultar estados e cidades via API (tela  HOME - mobile)
+
+// TESTAR A VALIDAÇÃO DE CAMPOS backend
+
+// PESQUISAR SOBRE YULP para validação front end
