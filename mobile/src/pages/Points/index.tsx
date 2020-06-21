@@ -74,7 +74,7 @@ const Points = () => {
         }).then(response => {
             setPoints(response.data)
         })
-    }, [selectedItems]) // sempre que selecionar ou tirar um item (sempre que houver alteração no estado), vai chamar esse useEffect
+     }, [selectedItems]) // sempre que selecionar ou tirar um item (sempre que houver alteração no estado), vai chamar esse useEffect
 
     function handleNavigateBack() {
         navigation.goBack()
