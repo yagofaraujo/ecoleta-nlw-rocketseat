@@ -1,5 +1,0 @@
-//IMPLEMENTAR FILE FILTER -> na hora de fazer o envio da imagem
-
-// TESTAR A VALIDAÇÃO DE CAMPOS backend
-
-// PESQUISAR SOBRE YULP para validação front end
